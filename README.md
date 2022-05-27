@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @felix-toledo
 
-- Currently, I'm studying Ingenieria en Sistemas in Argentina, and working with the system team of the municipality of my city.
+- Currently, I'm studying Ingenieria en Sistemas in Argentina.
 
-- At the same time, I'm trying to learn some web design and I'm really into it.
+- At the same time, I'm trying to learn some web design.
+
+- Hopefully, future full-stack developer :p
 
