@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Felix Toledo! 
 
 ## About Me 📌
-I'm a web developer and a Systems Engineering student from Argentina 🇦🇷. Ever since I was a kid, I've been hooked on technology 💻. I've spent countless hours sharpening my skills, especially in web programming and systems engineering.
+I'm a web developer and a Systems Engineering student from Argentina. Ever since I was a kid, I've been hooked on technology 💻. I've spent countless hours sharpening my skills, especially in web programming and systems engineering.
 
 ## What I'm Up To 🚀
 Right now, I'm juggling a few hats at work. I coordinate the city's metered parking system, provide user support, generate monthly digital summaries for key municipal systems, and conduct manual QA testing. I also maintain websites using WordPress, HTML, CSS. It's a lot, but I love every bit of it!
@@ -12,7 +12,7 @@ I see a future where technology is not just a tool, but a means to achieve our d
 ## Skills & Expertise 🛠️
 - Web Development
 - Systems Engineering
-- QA Testing
+- QA Manual Testing
 - User Support
 - Website Maintenance
 
